@@ -38,7 +38,7 @@
 
 <h2 align="center">Мои проекты и достижения</h2>
 <p align="center">
-  [[https://swated.ru](https://img.shields.io/badge/swated.ru-black)](https://img.shields.io/badge/swated_https://swated.ru-red)
+  ![[https://swated.ru](https://img.shields.io/badge/swated.ru-black)](https://img.shields.io/badge/swated_https://swated.ru-red)
 </p>
 
 ![](https://komarev.com/ghpvc/?username=gomoseky&label=PROFILE+VIEWS)
