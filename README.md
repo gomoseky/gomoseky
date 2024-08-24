@@ -5,4 +5,4 @@
 - 😄 Местоимения: he.his.him
 - ⚡ Интересный факт: Я сигма
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1271365343352328256)](https://discord.com/users/:1271365343352328256)
+[![](https://lanyard.cnrad.dev/api/1271365343352328256)](https://discord.com/users/1271365343352328256)
