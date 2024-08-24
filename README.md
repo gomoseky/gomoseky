@@ -38,5 +38,5 @@
 
 <h2 align="center">Мои проекты и достижения</h2>
 <p align="center">
-  [https://swated.ru](https://img.shields.io/badge/swated.ru-black)
+  [[https://swated.ru](https://img.shields.io/badge/swated.ru-black)](https://img.shields.io/badge/swated.ru-white)
 </p>
