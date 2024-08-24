@@ -40,3 +40,6 @@
 <p align="center">
   [[https://swated.ru](https://img.shields.io/badge/swated.ru-black)](https://img.shields.io/badge/swated.ru-white)
 </p>
+
+![](https://komarev.com/ghpvc/?username=gomoseky&label=PROFILE+VIEWS)
+
