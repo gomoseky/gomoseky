@@ -10,8 +10,8 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true" alt="Github Stats" />
   </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=high-contrast" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=highcontrast" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=dark" alt="Profile Details" />
 </p>
 
 <h1 align="center">Привет, я @gomoseky 👋</h1>
@@ -31,9 +31,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=black" alt="SCSS" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" alt="HTML5" />
 </p>
 
 <h2 align="center">Контакты</h2>
@@ -50,12 +50,12 @@
 
 <h2 align="center">GitHub трофеи</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gomoseky&theme=algolia&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gomoseky&theme=dark&row=1&column=6" alt="Trophies" />
 </p>
 
 <h2 align="center">Моя активность</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=high-contrast" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=dark" alt="Activity Graph" />
 </p>
 
 <h2 align="center">Прогресс по годам</h2>
