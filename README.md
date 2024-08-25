@@ -8,7 +8,11 @@
   </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=dark" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=dark" alt="Profile Details" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomoseky)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomoseky&theme=dark" alt="Top Langs" />
+    </a>
+  </p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I+am+Gomoseky+,+i+love+eat+pizza)](https://git.io/typing-svg)
