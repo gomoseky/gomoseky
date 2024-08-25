@@ -4,10 +4,6 @@
       srcset="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
     <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true" alt="Github Stats" />
   </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=dark" alt="GitHub Streak" />
@@ -20,12 +16,16 @@
   🌱 Сейчас я учу <strong>React</strong> и постоянно изучаю новые технологии.
 </p>
 
+<hr style="border:1px solid black">
+
 <h2 align="center">Интересные факты</h2>
 <p align="center">
   - 👀 Мне нравится кодить на <strong>React, JavaScript, JSX, SCSS, HTML и Python</strong>. <br>
   - 😄 Местоимения: <strong>he/his/him</strong>. <br>
   - ⚡ Интересный факт: Я <strong>сигма</strong>.
 </p>
+
+<hr style="border:1px solid black">
 
 <h2 align="center">Навыки</h2>
 <p align="center">
@@ -36,10 +36,14 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" alt="HTML5" />
 </p>
 
+<hr style="border:1px solid black">
+
 <h2 align="center">Контакты</h2>
 <p align="center">
   📫 <strong>Telegram</strong>: <a href="https://t.me/gomoseky" target="_blank">@gomoseky</a>
 </p>
+
+<hr style="border:1px solid black">
 
 <h2 align="center">Discord статус</h2>
 <p align="center">
@@ -48,15 +52,21 @@
   </a>
 </p>
 
+<hr style="border:1px solid black">
+
 <h2 align="center">GitHub трофеи</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gomoseky&theme=dark&row=1&column=6" alt="Trophies" />
 </p>
 
+<hr style="border:1px solid black">
+
 <h2 align="center">Моя активность</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=dark" alt="Activity Graph" />
 </p>
+
+<hr style="border:1px solid black">
 
 <h2 align="center">Прогресс по годам</h2>
 <p align="center">
@@ -64,7 +74,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=dark" alt="Productive Time" />
 </p>
 
+<hr style="border:1px solid black">
+
 <h2 align="center">Мои проекты и достижения</h2>
 <p align="center">
-  <a href="https://swated.ru" target="_blank">swated.ru</a>
+  <a href="https://swated.ru" target="_blank" style="color: #0d6efd; text-decoration: none;">swated.ru</a>
 </p>
