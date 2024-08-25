@@ -45,7 +45,7 @@
 
 <h2 align="center">Моя активность</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gomoseky&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph />
 </p>
 
 <h2 align="center">Мои проекты и достижения</h2>
