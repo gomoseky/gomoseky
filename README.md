@@ -46,7 +46,7 @@
 <h2 align="center">Моя активность</h2>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=dracula" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=high-contrast" alt="Activity Graph" />
   </a>
 </p>
 
