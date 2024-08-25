@@ -44,7 +44,11 @@
 </p>
 
 <h2 align="center">Моя активность</h2>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomoseky&theme=dracula" alt="Activity Graph" />
+  </a>
+</p>
 
 <h2 align="center">Мои проекты и достижения</h2>
 <p align="center">
