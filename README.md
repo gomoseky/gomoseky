@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true&theme=high-contrast" alt="Github Stats" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true" alt="Github Stats" />
+  </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=high-contrast" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=highcontrast" alt="Profile Details" />
 </p>
