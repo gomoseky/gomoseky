@@ -75,7 +75,6 @@
 
 <h2 align="center">Прогресс по годам</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=dark" alt="Commit Graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=dark" alt="Productive Time" />
 </p>
 
