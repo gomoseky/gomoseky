@@ -10,7 +10,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=dark" alt="Profile Details" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I+am+Gomoseky)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I+am+Gomoseky+,+i+love+eat+pizza)](https://git.io/typing-svg)
 
 <p align="center">
   🌱 Сейчас я учу <strong>React</strong> и постоянно изучаю новые технологии.
