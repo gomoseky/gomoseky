@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true&theme=github_dark" alt="Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=github_dark" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true&theme=high-contrast" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=high-contrast" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=highcontrast" alt="Profile Details" />
 </p>
 
 <h1 align="center">Привет, я @gomoseky 👋</h1>
@@ -50,8 +50,8 @@
 
 <h2 align="center">Прогресс по годам</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=github_dark" alt="Commit Graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=github_dark" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=highcontrast" alt="Commit Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=highcontrast" alt="Productive Time" />
 </p>
 
 <h2 align="center">Мои проекты и достижения</h2>
