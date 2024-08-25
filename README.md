@@ -8,11 +8,9 @@
   </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomoseky&theme=dark" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomoseky&theme=dark" alt="Profile Details" />
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomoseky&theme=dark" alt="Top Langs" />
-    </a>
-  </p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomoseky&theme=dark" alt="Top Langs" />
+  </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I+am+Gomoseky+,+i+love+eat+pizza)](https://git.io/typing-svg)
@@ -75,6 +73,7 @@
 
 <h2 align="center">Прогресс по годам</h2>
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=dark" alt="Commit Graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=dark" alt="Productive Time" />
 </p>
 
