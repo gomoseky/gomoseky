@@ -58,8 +58,8 @@
 
 <h2 align="center">Прогресс по годам</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=shadow_red" alt="Commit Graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=shadow_red" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=github_dark" alt="Commit Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=github_dark" alt="Productive Time" />
 </p>
 
 <h2 align="center">Мои проекты и достижения</h2>
