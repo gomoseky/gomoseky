@@ -6,7 +6,7 @@
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=gomoseky&show_icons=true" alt="Github Stats" />
   </picture>
@@ -60,8 +60,8 @@
 
 <h2 align="center">Прогресс по годам</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=highcontrast" alt="Commit Graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=highcontrast" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=gomoseky&theme=dark" alt="Commit Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gomoseky&theme=dark" alt="Productive Time" />
 </p>
 
 <h2 align="center">Мои проекты и достижения</h2>
